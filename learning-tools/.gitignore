@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.bundle/
+.vagrant
+real-adminrc
+*.taskpaper
+*.tfstate
+*.tfstate.backup
+*.tfvars
+consul-*.config.json
+*.defaults
+ssh.cfg
+known_hosts
+.terraform
+=======
+.terraform/*
+>>>>>>> 0670614ed57ecfc476c8333d20bb758036fcab4f
